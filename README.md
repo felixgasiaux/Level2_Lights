@@ -11,3 +11,5 @@ As you can see the datalines connect directly to the board, the power is supplie
 
 
 RGBW are 430 pixels long 
+RGBW 2 are 288 pixels long 
+
